@@ -1,0 +1,11 @@
+node_modules
+dist
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# Generated TypeScript build files
+*.tsbuildinfo
+/vite.config.js
+/vite.config.d.ts
